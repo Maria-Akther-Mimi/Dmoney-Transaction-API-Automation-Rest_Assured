@@ -29,7 +29,7 @@
 - Stable internet connection
 
 ## How to Run this Project 
-- Clone the project from this repository [Dmoney-Transaction-API-Automation-Rest_Assured](https://github.com/Maria-Akther-Mimi/Dmoney-Transaction-API-Automation-Rest_Assured/edit/main/README.md)
+- Clone the project from this repository [Dmoney-Transaction-API-Automation-Rest_Assured](https://github.com/Maria-Akther-Mimi/Dmoney-Transaction-API-Automation-Rest_Assured)
 - Open cmd in the root folder.
   
 ## Run the Automation Script by the following command 
