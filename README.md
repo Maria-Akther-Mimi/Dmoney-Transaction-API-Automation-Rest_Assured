@@ -1,8 +1,8 @@
-# Dmoney-Trnx-API-Automation-Rest_Assured
+## Dmoney-Trnx-API-Automation-Rest_Assured
 
-### An [API](https://api.postman.com/collections/1844288-143eb923-423f-4c91-a198-fe6e56d20e35?access_key=PMAT-01GJ3CC22Q0066PJWP3T0XHQ8G) is tested by using REST Assured framework.<br><br>
+## An [API](https://api.postman.com/collections/1844288-143eb923-423f-4c91-a198-fe6e56d20e35?access_key=PMAT-01GJ3CC22Q0066PJWP3T0XHQ8G) is tested by using Rest Assured framework. <br><br>
 
-Here the following tasks are done:
+- Here the following tasks are done:
 1. Do Login by admin
 2. Create 2 new customers and a agent
 3. Give 2000 tk from System account to the newly created agent
@@ -12,7 +12,7 @@ Here the following tasks are done:
 7. Payment 100 tk to a merchant (01686606905) by the recipient customer
 8. Check balance of the recipient customer<br><br>
 
-### Technology: </br>
+## Technology used: </br>
 - IDE: Intellij
 - Build tool: Gradle
 - Language: Java <br>
@@ -22,17 +22,17 @@ Here the following tasks are done:
 - Rest Assured
 - TestNG
 
-### Prerequisites</br>
+## Prerequisites </br>
 - Install jdk 11 or any LTS versio
 - Configure JAVA_HOME and GRADLE_HOME
 - Download Allure 2.23.0 and configure environment path
 - Stable internet connection
 
-### Project Run
+## How to Run this Project 
 - Clone the project from this repository [Dmoney-Transaction-API-Automation-Rest_Assured](https://github.com/Maria-Akther-Mimi/Dmoney-Transaction-API-Automation-Rest_Assured/edit/main/README.md)
 - Open cmd in the root folder.
   
-#### Run the Automation Script by the following command:
+## Run the Automation Script by the following command
  ```
  gradle clean test 
  ```
@@ -49,12 +49,3 @@ allure generate allure-results --clean -o allure-report
 ## Rest Assured API Automation Allure Report 
 
 
-![1](https://user-images.githubusercontent.com/58990500/204823153-6c01bcb5-f097-4f6e-9cf2-02a494bcbec0.PNG)
-
-
-
-![2](https://user-images.githubusercontent.com/58990500/204823205-8113d907-fbc4-4bc3-9aeb-9900349729ef.PNG)
-
-
-
-![3](https://user-images.githubusercontent.com/58990500/204823251-7d14f744-b2ce-4056-a660-c2c8bf03bbcd.PNG)
