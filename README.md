@@ -32,7 +32,7 @@
 - Clone the project from this repository [Dmoney-Transaction-API-Automation-Rest_Assured](https://github.com/Maria-Akther-Mimi/Dmoney-Transaction-API-Automation-Rest_Assured/edit/main/README.md)
 - Open cmd in the root folder.
   
-## Run the Automation Script by the following command
+## Run the Automation Script by the following command 
  ```
  gradle clean test 
  ```
@@ -48,4 +48,6 @@ allure generate allure-results --clean -o allure-report
 
 ## Rest Assured API Automation Allure Report 
 
+1.https://drive.google.com/file/d/1fAfLxXrwVk7lg0_hRI5mG1U1S4IvW0DV/view?usp=drive_link <br>
+2.https://drive.google.com/file/d/1z8a-jdzz8rknY6VJTiK6aN7cQ5FtS-FY/view?usp=drive_link
 
