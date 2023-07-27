@@ -1,5 +1,6 @@
 ## Dmoney-Transaction-API-Automation-Rest_Assured
 
+
 ## An [API](https://api.postman.com/collections/1844288-143eb923-423f-4c91-a198-fe6e56d20e35?access_key=PMAT-01GJ3CC22Q0066PJWP3T0XHQ8G) is tested by using Rest Assured framework. <br><br>
 
 - Here the following tasks are done:
@@ -12,6 +13,7 @@
 7. Payment 100 tk to a merchant (01686606905) by the recipient customer
 8. Check balance of the recipient customer<br><br>
 
+
 ## Technology used: </br>
 - IDE: Intellij
 - Build tool: Gradle
@@ -22,15 +24,18 @@
 - Rest Assured
 - TestNG
 
+
 ## Prerequisites </br>
 - Install jdk 11 or any LTS versio
 - Configure JAVA_HOME and GRADLE_HOME
 - Download Allure 2.23.0 and configure environment path
 - Stable internet connection
+  
 
 ## How to Run this Project 
 - Clone the project from this repository [Dmoney-Transaction-API-Automation-Rest_Assured](https://github.com/Maria-Akther-Mimi/Dmoney-Transaction-API-Automation-Rest_Assured)
 - Open cmd in the root folder.
+  
   
 ## Run the Automation Script by the following command 
  ```
